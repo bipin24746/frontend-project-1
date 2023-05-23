@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+}
+header{
+    position: relative;
+    height:40%;
+    background: #fff;
+
+}
+.h11{
+    color:lightgreen;
+    padding-left: 8rem;
+    padding-top: 3rem;
+}
+.h21{
+    color:rgba(220, 220, 15, 0.626);
+    padding-top: 2rem;
+    padding-left: 8rem;
+}
+.p1{
+    padding-top: 30px;
+    padding-left: 8rem;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color:#0000005b;
+}
+.container1{
+    display: flex;
+    padding-top: 20px;
+    height: 100%;
+}
+.container11{
+    width:50%;
+    background: lightseagreen;
+    padding-top: 45px;
+    color:#fff;
+}
+.container111{
+padding-left: 8rem;
+padding-top: 2rem;
+}
+.container112{
+    padding-left: 8rem;
+    padding-top: 2rem;
+    display: flex;
+}
+.pmonth{
+    padding-left: 20px;
+    color:#ffffffa8;
+}
+.faccess{
+padding-top: 1rem;
+    padding-left: 8rem;
+}
+footer{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.foot{
+    width:70%;
+    height: 53px;
+    color:#fff;
+    font-size: 30px;
+    font-style: bold;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 5px;
+}
+.why{
+background-color: rgb(108, 205, 200);
+width: 50%;
+padding-top: 20px;
+color:#fff;
+}
+.wu{
+    padding-left: 4rem;
+    padding-top: 2rem;
+}
+li{
+    list-style: none;
+    font-size: 18px;
+    padding-left: 4rem;
+    padding-top: 10px;
+    color:#ffffffa8;
+}
